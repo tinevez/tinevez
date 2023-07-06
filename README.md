@@ -3,6 +3,9 @@
 
 With minuscule exceptions, all the code I make is about scientific image analysis and data analysis. 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=tinevez)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tinevez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![tinevez' GitHub stats](https://github-readme-stats.vercel.app/api?username=tinevez&hide=issues,contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
