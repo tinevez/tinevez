@@ -14,7 +14,7 @@ With minuscule exceptions, all the code I make is about scientific image analysi
 
 <img src="https://github.com/mastodon-sc/mastodon-documentation/blob/1bb4e313a01a310bd29478842df1405d220fad2b/docs/imgs/Mastodon-logo_jy-01.png" height="100"> [Mastodon](https://github.com/mastodon-sc) (The scientific software for tracking cells and lineaging in large microscopy images, not the social network.)
 
-<img src="https://camo.githubusercontent.com/550a203fe03f1e9c8534af2f0113f021255de1bada32f9505c4536bee4146937/68747470733a2f2f696d6167656a2e6e65742f6d656469612f6c6f676f732f747261636b6d6174652d333030702e706e67" height="100"> [TrackMate](https://imagej.net/plugins/trackmate/) ([code](https://github.com/trackmate-sc/TrackMate))
+<img src="https://github.com/trackmate-sc/TrackMate/blob/master/src/main/resources/fiji/plugin/trackmate/gui/images/Logo50x50-color-nofont-72p.png" height="100"> [TrackMate](https://imagej.net/plugins/trackmate/) ([code](https://github.com/trackmate-sc/TrackMate))
 
 <img src="https://imagej.net/media/icons/mamut.png" height="100"> [MaMuT](https://imagej.net/plugins/mamut/) ([code](https://github.com/fiji/MaMuT))
 
