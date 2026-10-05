@@ -3,7 +3,7 @@
 
 With minuscule exceptions, all the code I make is about scientific image analysis and data analysis. 
 
-[![trophy](https://trophygh.kolioaris.xyz/?username=tinevez)](https://trophygh.kolioaris.xyz)
+[![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=tinevez)](trophygithubreadmelang.cybee.dpdns.org)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tinevez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
