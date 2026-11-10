@@ -6,7 +6,13 @@ With minuscule exceptions, all the code I make is about scientific image analysi
 [![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=tinevez)](trophygithubreadmelang.cybee.dpdns.org)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tinevez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source
+    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=tinevez&langs_count=4&theme=dark_github"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tinevez&langs_count=4&theme=light_github" alt="Top Langs" />
+</picture>
 
 [![tinevez's GitHub stats](https://github-stats-extended.vercel.app/api?username=tinevez)](https://github.com/stats-organization/github-stats-extended)
 
